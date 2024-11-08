@@ -17,11 +17,11 @@ $\displaystyle{N(\epsilon)~\frac{1}{\epsilon^D}}$, где $D$ &mdash; фракт
 ## Пример работы
 Пример построения дерева (закрашенные квадраты &mdash; выбранные дочерние узлы, штриховка &mdash; остаток от деления):
 <!-- ![Step 1](images/tree_1.png) -->
-<img src="Images/tree_1.png" alt="Step 1" width="300"> <img src="Images/tree_2.png" alt="Step 2" width="300"> <img src="Images/tree_3.png" alt="Step 3" width="300">
+<img src="images/tree_1.png" alt="Step 1" width="300"> <img src="images/tree_2.png" alt="Step 2" width="300"> <img src="images/tree_3.png" alt="Step 3" width="300">
 
 Генерация дерева глубиной 14:
 
-<img src="Images/fractal_2D_16k.jpg" alt="16k" width="700">
+<img src="images/fractal_2D_16k.jpg" alt="16k" width="700">
 
 ## Как запустить
 
